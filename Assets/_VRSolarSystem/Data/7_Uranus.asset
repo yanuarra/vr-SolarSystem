@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62e903013cbd71840a60270c4e195e66, type: 3}
+  m_Name: 7_Uranus
+  m_EditorClassIdentifier: 
+  planetName: 'Uranus '
+  planetNameAlt: []
+  planetDesc: 'Uranus is a very cold and windy world. The ice giant is surrounded
+    by 13 faint rings and 28 small moons. Uranus rotates at a nearly 90-degree angle
+    from the plane of its orbit. This unique tilt makes Uranus appear to spin sideways,
+    orbiting the Sun like a rolling ball.
+
+
+
+    Uranus was the first planet found
+    with the aid of a telescope. It was discovered in 1781 by astronomer William
+    Herschel, although he originally thought it was either a comet or a star. It
+    was two years later that the object was universally accepted as a new planet,
+    in part because of observations by astronomer Johann Elert Bode.'
+  planetThumbnail: {fileID: 0}
+  moons: []
+  orbitDistance: 0
+  AphelionInAU: 18.4
+  PerihelionInAU: 20.1
+  planetDiameter: 51118
+  revolutionTime: 30687
+  rotationTime: 17
+  axialTilt: 97.77
+  orbitalInclination: 0.8

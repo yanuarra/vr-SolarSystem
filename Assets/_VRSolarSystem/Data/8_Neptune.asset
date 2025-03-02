@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62e903013cbd71840a60270c4e195e66, type: 3}
+  m_Name: 8_Neptune
+  m_EditorClassIdentifier: 
+  planetName: Neptune
+  planetNameAlt: []
+  planetDesc: "Dark, cold and whipped by supersonic winds, giant Neptune is the eighth
+    and most distant major planet orbiting our Sun. More than 30 times as far from
+    the Sun as Earth, Neptune is not visible to the naked eye. In 2011, Neptune completed
+    its first 165-year orbit since its discovery.\r\n\r\nThe planet\u2019s rich blue
+    color comes from methane in its atmosphere, which absorbs red wavelengths of
+    light, but allows blue ones to be reflected back into space.\r\n\r\nNeptune was
+    the first planet located through mathematical calculations. Using predictions
+    sent to him by French astronomer Urbain Le Verrier, based on disturbances in
+    the orbit of Uranus, German astronomer Johann Galle was the first to observe
+    the planet in 1846. The planet is named after the Roman god of the sea, as suggested
+    by Le Verrier."
+  planetThumbnail: {fileID: 0}
+  moons: []
+  orbitDistance: 0
+  AphelionInAU: 30.33
+  PerihelionInAU: 29.81
+  planetDiameter: 49528
+  revolutionTime: 60190
+  rotationTime: 16
+  axialTilt: 28
+  orbitalInclination: 1.8

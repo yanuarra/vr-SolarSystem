@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: Moon
+  m_EditorClassIdentifier: Assembly-CSharp::Moon
+  moonName: Moon
+  moonDesc: The Moon has a solid, rocky surface cratered and pitted from impacts
+    by asteroids, meteorites, and comets. The Moon has a very thin and tenuous atmosphere
+    called an exosphere. It is not breathable. The Moon has no moons.
+  moonThumbnail: {fileID: 0}
+  orbitDistance: 0
+  moonSize: 0
+  revolutionTime: 0
+  rotationTime: 0
+  axialTilt: 0
+  orbitalInclination: 0

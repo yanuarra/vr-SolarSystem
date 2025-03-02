@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62e903013cbd71840a60270c4e195e66, type: 3}
+  m_Name: 3_Earth
+  m_EditorClassIdentifier: 
+  planetName: Earth
+  planetNameAlt: []
+  planetDesc: Our home planet Earth is a rocky, terrestrial planet. It has a solid
+    and active surface with mountains, valleys, canyons, plains and so much more.
+    Earth is special because it is an ocean planet. Water covers 70% of Earth's surface.
+  planetThumbnail: {fileID: 0}
+  moons:
+  - {fileID: 11400000, guid: 63910cb9c65794041801c650a4f5c5cf, type: 2}
+  orbitDistance: 149597900
+  AphelionInAU: 1.0167
+  PerihelionInAU: 0.9832899
+  orbitDistanceinAU: 1
+  planetDiameter: 12750
+  revolutionTime: 365.25
+  rotationTime: 24
+  axialTilt: 23.5
+  orbitalInclination: 7.25

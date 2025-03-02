@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db5c1e6b2a7f7474da9ec1aa70e5a48f, type: 3}
+  m_Name: PlanetList
+  m_EditorClassIdentifier: 
+  planetList:
+  - id: 1
+    order: 1
+    name: Matahari
+    alias: Bintang Kehidupan Tata Surya
+    description: 'Pusat dari tata surya kita dan sumber energi yang vital bagi kehidupan
+      di Bumi. Matahari adalah bintang kelas G yang berusia sekitar 4,6 miliar tahun.
+      Dengan diameter sekitar 1,39 juta kilometer, Matahari memiliki massa lebih
+      dari 99,8% dari total massa tata surya.
+
+      Matahari terdiri dari inti yang
+      sangat panas di mana fusi nuklir terjadi, mengubah hidrogen menjadi helium
+      dan menghasilkan energi yang luar biasa.  '
+    planetImage: {fileID: 2800000, guid: 0f738a92490c7804ca54dbed0ec29d5c, type: 3}
+    icon2D: {fileID: 2800000, guid: e440576451fdb604399d713cbd7dc9c9, type: 3}
+    planetVO: {fileID: 8300000, guid: 0bebc8adf2aed824a8972f9f55027f28, type: 3}
+    colorHex: '#E8B472'
+    planetFull: {fileID: 21300000, guid: a109f720d2493e34fb11b041cc42e331, type: 3}
+    planetDesc: {fileID: 21300000, guid: 2bd77600bd2a40145ad18ff6e7da2b25, type: 3}
+  - id: 2
+    order: 2
+    name: Merkurius
+    alias: Planet Terkecil dan Terdekat dengan Matahari
+    description: Merkurius adalah planet terkecil di tata surya dan yang paling dekat
+      dengan Matahari. Permukaannya yang berbatu dan dipenuhi kawah mirip dengan
+      Bulan kita. Suhu di Merkurius sangat ekstrem, dengan panas yang membara di
+      siang hari dan dingin yang membekukan di malam hari karena tidak adanya atmosfer
+      yang signifikan.
+    planetImage: {fileID: 2800000, guid: 7a67d71fe03e9414d93381820d21319b, type: 3}
+    icon2D: {fileID: 2800000, guid: 85e061eb064c72a4cb865ca3f8d0460a, type: 3}
+    planetVO: {fileID: 8300000, guid: f76c17c543e9e894c83eec7a077606c7, type: 3}
+    colorHex: '#E8B472'
+    planetFull: {fileID: 21300000, guid: 59203bd9b275e1a4ea7a85f36d5f2dac, type: 3}
+    planetDesc: {fileID: 21300000, guid: 487cbee7a6a7c2c4f9f88eed0e024f0b, type: 3}
+  - id: 3
+    order: 3
+    name: Venus
+    alias: Planet yang Paling Panas
+    description: Venus adalah planet kedua dari Matahari dan dikenal dengan atmosfernya
+      yang tebal dan beracun yang terdiri dari karbon dioksida dan awan asam sulfat.
+      Permukaan Venus sangat panas, bahkan lebih panas dari Merkurius, karena efek
+      rumah kaca yang ekstrem. Venus sering disebut "kembaran Bumi" karena ukurannya
+      yang hampir sama.
+    planetImage: {fileID: 2800000, guid: 2a4c145de72e33345a7407e5926ac8bc, type: 3}
+    icon2D: {fileID: 2800000, guid: 44d4bdb118a37414090293c72a404481, type: 3}
+    planetVO: {fileID: 8300000, guid: d8f7fe39bf2c9bd47acc125f2bc5b6af, type: 3}
+    colorHex: '#D8351E'
+    planetFull: {fileID: 21300000, guid: e76ce020b9683b440b5e4e4711b55871, type: 3}
+    planetDesc: {fileID: 21300000, guid: 0bacbd975cf8c5c4f94d975378fa5b9e, type: 3}
+  - id: 4
+    order: 4
+    name: Bumi
+    alias: Rumah Kita yang Indah
+    description: Bumi adalah planet ketiga dari Matahari dan satu-satunya yang diketahui
+      mendukung kehidupan. Bumi memiliki atmosfer kaya oksigen, permukaan yang sebagian
+      besar ditutupi oleh air, dan berbagai iklim. Bumi adalah rumah bagi miliaran
+      spesies, termasuk manusia, yang telah membangun peradaban yang kompleks.
+    planetImage: {fileID: 2800000, guid: 9cc699826f094af489f6666f9306264b, type: 3}
+    icon2D: {fileID: 2800000, guid: 8e506ba4de93b124d89850f0bea0ddab, type: 3}
+    planetVO: {fileID: 8300000, guid: 57080adbe6632ce4d8cd4721231a5e5c, type: 3}
+    colorHex: '#3F8DC6'
+    planetFull: {fileID: 21300000, guid: a65503abf48100c4298aae6ccdd234e3, type: 3}
+    planetDesc: {fileID: 21300000, guid: 7a703a34c49c69c48890b673e8de6a54, type: 3}
+  - id: 5
+    order: 5
+    name: Mars
+    alias: Planet Merah
+    description: Mars, planet keempat dari Matahari, dikenal sebagai Planet Merah
+      karena warna permukaannya yang merah akibat oksida besi atau karat. Mars memiliki
+      gunung berapi terbesar dan ngarai terdalam di tata surya. Ada bukti bahwa Mars
+      memiliki air dalam bentuk es, dan kemungkinan adanya kehidupan mikroba di masa
+      lalu.
+    planetImage: {fileID: 2800000, guid: 8a9d72d2f8e5e96488e4528eb179f476, type: 3}
+    icon2D: {fileID: 2800000, guid: ef76738dcde56024abae7873fbc62509, type: 3}
+    planetVO: {fileID: 8300000, guid: b6453709f72a6d541a13426c35683057, type: 3}
+    colorHex: '#D8351E'
+    planetFull: {fileID: 21300000, guid: c95559b6345025d4a90ea614d9ee77cb, type: 3}
+    planetDesc: {fileID: 21300000, guid: ecd4e9540ccb8994a8d6f60e145cf450, type: 3}
+  - id: 6
+    order: 6
+    name: Jupiter
+    alias: Raja Planet
+    description: Jupiter adalah planet terbesar di tata surya dan planet kelima dari
+      Matahari. Planet gas raksasa ini terkenal dengan Great Red Spot, badai raksasa
+      yang telah berlangsung selama berabad-abad. Jupiter memiliki lebih dari 79
+      bulan, termasuk Ganymede, bulan terbesar di tata surya.
+    planetImage: {fileID: 2800000, guid: 3c0d2cdee1a865343a16c542cc2ad716, type: 3}
+    icon2D: {fileID: 2800000, guid: 361cee9a34c982c4882f20f58e150659, type: 3}
+    planetVO: {fileID: 8300000, guid: 3835c4bde2a21834abe2423eac0a31ee, type: 3}
+    colorHex: '#B99A6C'
+    planetFull: {fileID: 21300000, guid: 6b900619a62483c47b664d28f267365c, type: 3}
+    planetDesc: {fileID: 21300000, guid: b672aaf63c652df43a62104b7a4a41f2, type: 3}
+  - id: 7
+    order: 7
+    name: Saturnus
+    alias: ' Planet Cincin'
+    description: Saturnus, planet keenam dari Matahari, terkenal dengan sistem cincin
+      yang spektakuler yang terbuat dari partikel es dan batu. Saturnus adalah planet
+      gas raksasa dengan atmosfer yang didominasi oleh hidrogen dan helium. Saturnus
+      juga memiliki banyak bulan, termasuk Titan, bulan yang memiliki atmosfer tebal.
+    planetImage: {fileID: 2800000, guid: 4b3a94fe56536384d8779ef4415de122, type: 3}
+    icon2D: {fileID: 2800000, guid: 9b6289bccdbe42c419c25e998856d29f, type: 3}
+    planetVO: {fileID: 8300000, guid: d614eac02231c4640b80e91681205b73, type: 3}
+    colorHex: '#B99A6C'
+    planetFull: {fileID: 21300000, guid: 655e521b3cd64054e80ae9bdcc26609f, type: 3}
+    planetDesc: {fileID: 21300000, guid: 1479c68d54eda8f4e967d67c831acde7, type: 3}
+  - id: 8
+    order: 8
+    name: Uranus
+    alias: Planet yang Berputar Miring
+    description: Uranus adalah planet ketujuh dari Matahari dan dikenal dengan rotasinya
+      yang miring ekstrem, hampir sejajar dengan bidang orbitnya. Uranus adalah planet
+      es raksasa yang atmosfernya mengandung metana, yang memberikan warna biru-hijau.
+      Uranus memiliki cincin tipis dan beberapa bulan besar.
+    planetImage: {fileID: 2800000, guid: 80a2bafb6d57d1c4a83c499872de9ae3, type: 3}
+    icon2D: {fileID: 2800000, guid: 2a84ba93d27d55f438629b823cf4f5d2, type: 3}
+    planetVO: {fileID: 8300000, guid: f6697808748898a4f8afce0c4e8ff816, type: 3}
+    colorHex: '#71ACBF'
+    planetFull: {fileID: 21300000, guid: 3ae374a60ef658948b39b3b535692337, type: 3}
+    planetDesc: {fileID: 21300000, guid: d35db69bd37bf964c802770c0db3208a, type: 3}
+  - id: 9
+    order: 9
+    name: Neptunus
+    alias: Planet Biru
+    description: Neptunus, planet kedelapan dan terjauh dari Matahari, adalah planet
+      es raksasa yang juga memiliki warna biru karena metana dalam atmosfernya. Neptunus
+      terkenal dengan angin tercepat di tata surya dan badai besar yang disebut Great
+      Dark Spot. Neptunus memiliki beberapa bulan, dengan Triton sebagai yang terbesar.
+    planetImage: {fileID: 2800000, guid: e312373c77cb17f4aa6f5f68f6988a30, type: 3}
+    icon2D: {fileID: 2800000, guid: 6548b7a77ddad2048b1719995c28c523, type: 3}
+    planetVO: {fileID: 8300000, guid: 032db3c5008284e4eaf2cac33acb816e, type: 3}
+    colorHex: '#71ACBF'
+    planetFull: {fileID: 21300000, guid: 63512f51f21ea004b8a6d6adcb828cc0, type: 3}
+    planetDesc: {fileID: 21300000, guid: c261c297536995449bde1a1d9059ddb7, type: 3}
+  templateList:
+  - buttonImage: {fileID: 21300000, guid: 9578a6e623af93a45b4610752bce8fa0, type: 3}
+    backgroundLeft: {fileID: 21300000, guid: 79a80879c77546a4682e20e02985dda8, type: 3}
+    backgroundRight: {fileID: 21300000, guid: ea82d87e70316e9469c30838faed393f, type: 3}
+    lineImage: {fileID: 21300000, guid: 6738cb99df5599c4abba7a1edb2cd79a, type: 3}

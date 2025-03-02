@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62e903013cbd71840a60270c4e195e66, type: 3}
+  m_Name: 1_Mercury
+  m_EditorClassIdentifier: 
+  planetName: 'Mercury '
+  planetNameAlt: []
+  planetDesc: Mercury is the first planet from the Sun and the smallest in the Solar
+    System. In English, it is named after the ancient Roman god Mercurius, god of
+    commerce and communication, and the messenger of the gods. Mercury is classified
+    as a terrestrial planet, with roughly the same surface gravity as Mars.
+  planetThumbnail: {fileID: 0}
+  moons: []
+  orbitDistance: 62299
+  AphelionInAU: 0.467
+  PerihelionInAU: 0.307
+  planetDiameter: 4879
+  revolutionTime: 88
+  rotationTime: 59
+  axialTilt: 2.04
+  orbitalInclination: 7.005

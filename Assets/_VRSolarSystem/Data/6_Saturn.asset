@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62e903013cbd71840a60270c4e195e66, type: 3}
+  m_Name: 6_Saturn
+  m_EditorClassIdentifier: 
+  planetName: Saturn
+  planetNameAlt: []
+  planetDesc: 'Saturn is the sixth planet from the Sun and the second-largest in
+    the Solar System, after Jupiter. It is a gas giant with an average radius of
+    about nine-and-a-half times that of Earth. It has only one-eighth the average
+    density of Earth, but is over 95 times more massive. '
+  planetThumbnail: {fileID: 0}
+  moons: []
+  orbitDistance: 0
+  AphelionInAU: 9.195
+  PerihelionInAU: 9.957
+  planetDiameter: 120500
+  revolutionTime: 10756
+  revolutionTimeHours: 0
+  rotationTime: 10.7
+  axialTilt: 26.73
+  orbitalInclination: 2.48
